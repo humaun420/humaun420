@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Humaun Kabir</h1>
 <h3 align="center">A passionate full stsck web developer from Bangladesh</h3>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humaun420&label=Profile%20views&color=0e75b6&style=flat" alt="humaun420" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humaun420" alt="humaun420" /></a> </p>
+-->
 
 - 🔭 I’m currently learning [nodejs for bcackend and js for everything](no link)
 
