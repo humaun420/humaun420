@@ -7,10 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humaun420" alt="humaun420" /></a> </p>
 -->
 
-- 🔭 I’m currently learning [nodejs for bcackend and js for everything](no link)
+- 🔭 I’m currently learning nodejs for bcackend and js for everything
 
 - 🌱 I’m currently learning **too many things**
-
+<!--
 - 👯 I’m looking to collaborate on [nothing](nothing)
 
 - 🤝 I’m looking for help with [nothing](nothing)
@@ -18,7 +18,7 @@
 - 👨‍💻 All of my projects are available at [no where](no where)
 
 - 📝 I regularly write articles on [no where](no where)
-
+-->
 - 💬 Ask me about **react , JavaScript , nodejs , expressjs etc**
 
 - 📫 How to reach me **humaumkabi85@gmail.com**
