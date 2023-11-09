@@ -1,11 +1,33 @@
-<h1 align="center">Hi 👋, I'm Humaun Kabir</h1>
+🚀 Full Stack Web Developer | WordPress Theme Customization Expert | MERN Stack Enthusiast | PHP | Node.js | React.js | MongoDB | MySQL | JavaScript Ninja
+
+🌐 Crafting seamless web experiences and scalable applications. Specialized in customizing WordPress themes to perfection.
+
+🛠️ Skills:
+- Frontend: React.js, JavaScript, HTML, CSS
+- Backend: Node.js, Express, PHP
+- Databases: MongoDB, MySQL
+- WordPress: Theme Customization, Plugin Development
+- Full Stack: MERN (MongoDB, Express, React, Node.js)
+- RESTful APIs, GraphQL
+- Version Control: Git, GitHub
+
+💡 Passionate about clean, efficient, and maintainable code. Always exploring new technologies and frameworks.
+
+📫 Open to collaborations and exciting projects. Let's connect for web development discussions!
+
+<!--🔗 Portfolio: [YourPortfolioWebsite.com]-->
+📧 Email: humaunkabi85@gmail.com
+
+
+
+<!--<h1 align="center">Hi 👋, I'm Humaun Kabir</h1>
 <h3 align="center">A passionate full stsck web developer from Bangladesh</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humaun420&label=Profile%20views&color=0e75b6&style=flat" alt="humaun420" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humaun420" alt="humaun420" /></a> </p>
--->
+
 
 - 🔭 I’m currently learning nodejs for bcackend and js for everything
 
@@ -18,7 +40,7 @@
 - 👨‍💻 All of my projects are available at [no where](no where)
 
 - 📝 I regularly write articles on [no where](no where)
--->
+
 - 💬 Ask me about **react , JavaScript , nodejs , expressjs etc**
 
 - 📫 How to reach me **humaumkabi85@gmail.com**
@@ -26,7 +48,7 @@
 - 📄 Know about my experiences [nothing](nothing)
 
 - ⚡ Fun fact **i think i am funny**
--->
+
 
 
 
