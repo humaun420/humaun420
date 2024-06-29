@@ -3,10 +3,10 @@
 🌐 Crafting seamless web experiences and scalable applications. Specialized in customizing WordPress themes to perfection.
 
 🛠️ Skills:
-- Frontend: React.js, JavaScript, HTML, CSS
-- Backend: Node.js, Express, PHP
+- Frontend: React.js, Blade, JavaScript, HTML, CSS
+- Backend: Node.js, Express, PHP, Laravel
 - Databases: MongoDB, MySQL
-- WordPress: Theme Customization, Plugin Development
+- WordPress: Theme Customization, Theme And Plugin Development
 - Full Stack: MERN (MongoDB, Express, React, Node.js)
 - RESTful APIs, GraphQL
 - Version Control: Git, GitHub
